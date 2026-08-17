@@ -1,6 +1,4 @@
-/* =========================
-   RESET
-========================= */
+
 
 * {
     margin: 0;
@@ -663,6 +661,10 @@ footer {
         height: 130px;
         font-size: 80px;
     }
+    .how-card h3{
+        position: relative;
+        top: 20px;
+    }
 
 
     /* CURRICULUM */
@@ -684,6 +686,9 @@ footer {
         min-height: 320px;
     }
 
+    .courses h3{
+        text-align: center;
+    }
 
     /* SUCCESS */
 
